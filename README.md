@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Structures and Financial Literacy
 - 💞️ I’m looking to collaborate on multiple projects connected to C++
-- 📫 How to reach me ...
+- 📫 How to reach me : LINKEDIN - https://www.linkedin.com/in/kerwyn-jean-student-b15727290/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently a part of Fordham University's STEP program, dedicated in helping foster a positive community for underrepresented individuals to thrive in
 
