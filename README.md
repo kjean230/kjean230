@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Structures and Financial Literacy
 - 💞️ I’m looking to collaborate on multiple projects connected to C++
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am currently a part of Fordham University's STEP program, dedicated in helping foster a positive community for underrepresented individuals to thrive in
 
 <!---
 kjean230/kjean230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
