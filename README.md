@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjean230
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Structures and Financial Literacy
-- 💞️ I’m looking to collaborate on multiple projects connected to C++
+- 🌱 I’m currently learning Database Systems and Information & Data Management
+- 💞️ I’m looking to collaborate on multiple projects connected to Python
 - 📫 How to reach me : LINKEDIN - linkedin.com/in/kerwynjean/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently a part of Fordham University's STEP program, dedicated in helping foster a positive community for underrepresented individuals to thrive in
