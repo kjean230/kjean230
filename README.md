@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on multiple projects connected to Python
 - 📫 How to reach me : LINKEDIN - linkedin.com/in/kerwynjean/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently a part of Fordham University's STEP program, dedicated in helping foster a positive community for underrepresented individuals to thrive in
+- ⚡ Fun fact: I am currently working at the Bronx Zoo, attempting to merge the environment of computer science (creation of graphs with python) alongside the ecological research available
 
 <!---
 kjean230/kjean230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
