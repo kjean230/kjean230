@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @kjean230
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Database Systems and Information & Data Management
-- 💞️ I’m looking to collaborate on multiple projects connected to Python
+- 👋 Hi, I’m Kerwyn
+-  I’m currently majoring in Computer Science  
+- 🌱 I’m learning about Database Systems and Information & Data Management using SQL and Python
+- I’m looking to collaborate on multiple projects connected to Python, expanding my knowledge within libraries and frameworks
+
 - 📫 How to reach me : LINKEDIN - linkedin.com/in/kerwynjean/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently working at the Bronx Zoo, attempting to merge the environment of computer science (creation of graphs with python) alongside the ecological research available
+
+- ⚡ Fun fact: I am currently working at the Bronx Zoo, merging the environment of computer science alongside the ecological research available
+- I am responsible for generating visual representations between datasets; using libraries like Seaborn & Matplotlib/Plotly
+
 
 <!---
 kjean230/kjean230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
