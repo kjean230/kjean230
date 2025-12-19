@@ -1,3 +1,5 @@
+INCOMING DATA ENGINEERING INTERN @ GUARDIAN LIFE
+
 - 👋 Hi, I’m Kerwyn
 -  I’m currently majoring in Computer Science  
 - 🌱 I’m learning about Database Systems and Information & Data Management using SQL and Python
