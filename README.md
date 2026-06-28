@@ -10,8 +10,8 @@
 - 📫 How to reach me : LINKEDIN - linkedin.com/in/kerwynjean/
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I am currently working at the Bronx Zoo, merging the environment of computer science alongside the ecological research available
-- I am responsible for generating visual representations between datasets; using libraries like Seaborn & Matplotlib/Plotly
+- ⚡ Fun fact: My last internship was at the Bronx Zoo, merging the environment of computer science alongside the ecological research available
+- I was responsible for generating visual representations between datasets; using libraries like Seaborn & Matplotlib/Plotly
 
 
 <!---
