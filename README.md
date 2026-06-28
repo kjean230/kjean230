@@ -1,6 +1,6 @@
-Master's in Data Science @ Fordham GSAS
-Data Engineering Intern @ Guardian Life
-Break Through Tech AI Intern
+- Master's in Data Science @ Fordham GSAS
+- Data Engineering Intern @ Guardian Life
+- Break Through Tech AI Intern
 
 - 👋 Hi, I’m Kerwyn
 -  I’m currently majoring in Computer Science  
