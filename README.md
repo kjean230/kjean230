@@ -1,20 +1,38 @@
-- Master's in Data Science @ Fordham GSAS
-- Data Engineering Intern @ Guardian Life
-- Break Through Tech AI Intern
+# 👋 Hi, I'm Kerwyn Jean
 
-- 👋 Hi, I’m Kerwyn
--  I’m currently majoring in Computer Science  
-- 🌱 I’m learning about Database Systems and Information & Data Management using SQL and Python
-- I’m looking to collaborate on multiple projects connected to Python, expanding my knowledge within libraries and frameworks
+### Aspiring AI Data Engineer
 
-- 📫 How to reach me : LINKEDIN - linkedin.com/in/kerwynjean/
-- 😄 Pronouns: He/Him
+Data Science graduate student and aspiring AI Data Engineer focused on building reliable data pipelines and applied machine learning systems. I enjoy turning messy, real-world datasets into clear insights and models that serve both technical and non-technical audiences.
 
-- ⚡ Fun fact: My last internship was at the Bronx Zoo, merging the environment of computer science alongside the ecological research available
-- I was responsible for generating visual representations between datasets; using libraries like Seaborn & Matplotlib/Plotly
+---
 
+## 🎓 Education
+- **M.S. in Data Science** — Fordham University, Graduate School of Arts & Sciences (GSAS)
 
-<!---
-kjean230/kjean230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 Experience
+- **Data Engineering Intern** — Guardian Life
+- **Break Through Tech AI Fellow** — Cornell Tech (2026–27 cohort)
+- **Prior Internship** — Bronx Zoo: built visual representations of ecological datasets using Seaborn, Matplotlib, and Plotly, merging computer science with ecological research
+
+## 🚀 Break Through Tech AI
+Selected as a **Break Through Tech AI Fellow** at **Cornell Tech (2026–27 cohort)**. Highlights of my participation:
+- Completed the **Python Boot Camp** and attended the program **kickoff**
+- Completed the **Machine Learning Foundations** course in good standing
+- Registered for **Fall AI Studio (Section E)**
+- Actively participated in **Career Services workshops** for professional development
+- **Capstone:** an **Airbnb NYC Listings binary classifier** predicting high vs. low price categories — framed for a dual audience of rental operators and policymakers, extending into a neural-network problem
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL
+- **Data & ML:** Machine Learning foundations, data pipelines, Database Systems, Information & Data Management
+- **Visualization:** Seaborn, Matplotlib, Plotly
+
+## 🌱 Currently
+Deepening my work in database systems, data management, and applied machine learning, and looking to collaborate on Python-based data and ML projects.
+
+## 📫 Contact
+- **LinkedIn:** [linkedin.com/in/kerwynjean](https://www.linkedin.com/in/kerwynjean/)
+- **Email:** kerwynjean123@gmail.com
+
+---
+*Pronouns: He/Him*
