@@ -9,7 +9,7 @@ Data Science graduate student and aspiring AI Data Engineer who builds reliable,
 ## 🎓 Education
 - **M.S. in Data Science (Accelerated 4+1)** — Fordham University, Graduate School of Arts & Sciences · *Expected May 2028*
 - **B.S. in Computer Science** — Fordham University · *Expected May 2027* · GPA 3.72/4.00 · Dean's List (Spring 2024–Fall 2025)
-- **Riversville Merit Scholar** — Full-Tuition Fellowship (6–10 recipients annually)
+- **Riversville Foundation Scholar** — Full-Tuition Fellowship (6–10 recipients annually)
 - **Break Through Tech AI Fellow** — Cornell Tech (2026–27 cohort)
 - *Relevant coursework:* Data Structures & Algorithms, Database Systems, Data Mining, Operating Systems, Algorithms
 
