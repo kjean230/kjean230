@@ -54,7 +54,6 @@ Selected as a **Break Through Tech AI Fellow** at **Cornell Tech (2026–27 coho
 - **Grounded Financial Document Q&A** *(in development, BTT AI Studio)*: RAG system for answering questions over SEC filings, built with a 5-person team; I own the dataset split and baseline retrieval
 - **[Airbnb NYC Price Classifier](https://github.com/kjean230/break-through-tech-ai/blob/main/Jean_Kerwyn_ModelSelectionForLogisticRegression.ipynb)**: Binary classifier predicting high vs. low price categories for NYC Airbnb listings, framed for a dual audience of rental operators and policymakers (BTT ML Foundations capstone, extending into a neural-network problem)
 - **Climate Impact Agentic AI App** *(hackathon, Oct 2026)*: Agentic AI application exploring climate change impact, built with a co-founder at a hackathon
-- **MigrateIQ** *(in development)*: Agentic system for working with documents and structured data, built with my MigrationLabs co-founders
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, SQL, PySpark, JavaScript, Cypher, C++
